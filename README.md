@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I´m Martino 👋
 
-<!--
-**martinoallais/martinoallais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. in Mechatronic Engineering & M.Sc. in Autonomous Driving
 
-Here are some ideas to get you started:
+🤖 I build things with data and AI, focused on making models actually useful in the real world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Over the past years I’ve worked across system and data engineering, and lately I’ve been diving deep into LLMs, local models, and automation.
+
+🧠 I enjoy turning complex ideas into simple, working systems — especially when I can run everything end-to-end myself.
+
+🌍 Based in Germany, originally from Italy 🇮🇹
+
+🌐 Open to new opportunities in AI and Automation. 
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/martino-allais/)
